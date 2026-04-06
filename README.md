@@ -1,6 +1,6 @@
 # Sweepcrafter
 
-This is a version of Minesweeper implemented in Minecraft when I was in highschool. Thought I'd put it on github for safekeeping.
+This is a version of Minesweeper implemented in Minecraft (1.16.4) when I was in highschool. Thought I'd put it on github for safekeeping.
 
 In the folder:
 
